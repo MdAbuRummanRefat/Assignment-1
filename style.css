@@ -35,7 +35,7 @@ p{
 .quote-highlight{
     text-align: left;
     padding-left: 2%;
-    color:green;
+    color:rgba(90, 30, 255, 0.836);
 }
 .half-width{
     width: 40%;
